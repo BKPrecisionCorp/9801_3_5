@@ -1,0 +1,14 @@
+﻿  basicExample.cpp
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(68,16): warning C4018: '<': signed/unsigned mismatch
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(107,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(114,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(121,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(128,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(135,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(143,62): warning C4267: 'argument': conversion from 'size_t' to 'ViUInt32', possible loss of data
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(30,11): warning C4101: 'iModelStr': unreferenced local variable
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(31,12): warning C4101: 'k': unreferenced local variable
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(31,15): warning C4101: 'l': unreferenced local variable
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(31,9): warning C4101: 'j': unreferenced local variable
+C:\git\GitHub\9801_3_5\c\visaExample\basicExample\basicExample.cpp(29,11): warning C4101: 'iManf': unreferenced local variable
+  basicExample.vcxproj -> C:\git\GitHub\9801_3_5\c\visaExample\basicExample\x64\Debug\basicExample.exe
